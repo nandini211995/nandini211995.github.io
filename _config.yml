@@ -183,7 +183,7 @@ scholar:
   last_name: Grover
   first_name: [Aditya]
 
-  style: alpha
+  style: apa
   locale: en
   group_by: type, year
 
