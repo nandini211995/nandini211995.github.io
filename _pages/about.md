@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Assistant Professor of CS at UCLA. 
 
 profile:
-  align: left
+  align: right
   image: Adi.png
   address: 
 

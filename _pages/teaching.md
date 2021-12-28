@@ -6,6 +6,26 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+**Instructor**
+
+*UCLA*
+
+- Winter 2022: Deep Generative Models (CS 269)
+
+*Stanford*
+
+- Fall 2019: Deep Generative Models (CS 236)
+- Fall 2018: Deep Generative Models (CS 236)
+
+
+**Teaching Assistant**
+
+*Stanford*
+
+- Winter 2017: Probabilistic Graphical Models (CS 228) - Head TA
+
+*IIT Delhi*
+
+- Spring 2015: Introduction to Artificial Intelligence (CSL 333/671)
+
