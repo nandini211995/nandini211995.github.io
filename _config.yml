@@ -180,11 +180,12 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Grover
+  first_name: [Aditya]
 
-  style: apa
+  style: alpha
   locale: en
+  group_by: type, year
 
   source: /_bibliography/
   bibliography: papers.bib
